@@ -12,7 +12,7 @@
     },
     "version": "0.4",
     "ksp_version_min": "1.0.5",
-    "ksp_version_max": "1.1.1",
+    "ksp_version_max": "1.3.0",
     "install": [
         {
             "find": "BurgerMod",
@@ -21,5 +21,10 @@
     ],
     "download": "https://spacedock.info/mod/96/Burger%20Mod/download/0.4",
     "download_size": 5462565,
+    "download_hash": {
+        "sha1": "222DF468CA86BC947222521E0F00B29078726EF1",
+        "sha256": "58B6BFFA93BA753A09F3FB18EE8E2D5152116BB982D066D44C3FC3997D1D9FCD"
+    },
+    "download_content_type": "application/zip",
     "x_generated_by": "netkan"
 }

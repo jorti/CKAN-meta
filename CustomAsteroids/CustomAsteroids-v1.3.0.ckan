@@ -1,5 +1,5 @@
 {
-    "spec_version": 1,
+    "spec_version": "v1.2",
     "identifier": "CustomAsteroids",
     "name": "Custom Asteroids",
     "abstract": "Lets users control where asteroids appear",
@@ -15,7 +15,7 @@
     },
     "version": "v1.3.0",
     "ksp_version_min": "1.1.0",
-    "ksp_version_max": "1.1.1",
+    "ksp_version_max": "1.1.2",
     "depends": [
         {
             "name": "CustomAsteroids-Pops"
@@ -40,6 +40,19 @@
     "suggests": [
         {
             "name": "CommunityResourcePack"
+        },
+        {
+            "name": "KSP-AVC"
+        }
+    ],
+    "supports": [
+        {
+            "name": "USI-ART",
+            "min_version": "0.8.2.0"
+        },
+        {
+            "name": "DMagicOrbitalScience",
+            "min_version": "1.2.4"
         }
     ],
     "install": [
@@ -51,6 +64,11 @@
     ],
     "download": "https://spacedock.info/mod/210/Custom%20Asteroids/download/v1.3.0",
     "download_size": 77254,
+    "download_hash": {
+        "sha1": "D97D8EDB0C9A5F248A6D65EEFFBC54903267B3FB",
+        "sha256": "AAF2B79710DD6635B4C3123201C568845F19361D6057CEAEB8D1D296CCC5E181"
+    },
+    "download_content_type": "application/zip",
     "x_maintained_by": "Starstrider42",
     "x_generated_by": "netkan"
 }

@@ -24,6 +24,11 @@
         }
     ],
     "download": "https://github.com/Will565/IFI-Life-Support/releases/download/v3.10/IFILifesupportPlugin31.zip",
-    "download_size": 5551285,
+    "download_size": 5554401,
+    "download_hash": {
+        "sha1": "C7C5EF3A326C87D52762817BA626042B4DE21EEE",
+        "sha256": "A0F2324A127BDD8D42080E40759AB9B5E11352321FC4785AFA7F707431F4CE1E"
+    },
+    "download_content_type": "application/zip",
     "x_generated_by": "netkan"
 }

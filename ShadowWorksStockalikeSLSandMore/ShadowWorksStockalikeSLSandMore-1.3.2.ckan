@@ -11,13 +11,13 @@
         "x_screenshot": "https://spacedock.info/content/TheShadow1138_1098/ShadowWorks_Stockalike_SLS_and_More/ShadowWorks_Stockalike_SLS_and_More-1456081125.6838088.png"
     },
     "version": "1.3.2",
-    "ksp_version": "1.0.5",
+    "ksp_version": "1.3.0",
     "recommends": [
         {
             "name": "BaconLabs"
         },
         {
-            "name": "Tantares"
+            "name": "NewTantares"
         }
     ],
     "install": [
@@ -34,5 +34,10 @@
     ],
     "download": "https://spacedock.info/mod/216/ShadowWorks%20Stockalike%20SLS%20and%20More/download/1.3.2",
     "download_size": 10697234,
+    "download_hash": {
+        "sha1": "81AACA2476BDC8DF9C861C8271DE9CEF315FD200",
+        "sha256": "5C15A3DE5FFEC872DF8CFA0C9DAB00FB2FC60007576B2AE502E270947D789A00"
+    },
+    "download_content_type": "application/zip",
     "x_generated_by": "netkan"
 }

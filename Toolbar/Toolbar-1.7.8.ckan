@@ -4,12 +4,12 @@
     "author"         : "blizzy78",
     "identifier"     : "Toolbar",
     "abstract"       : "API for third-party plugins to provide toolbar buttons",
-    "download"       : "http://blizzy.de/toolbar/Toolbar-1.7.8.zip",
+    "download"       : "https://www.dropbox.com/sh/b256r09rx0x6cow/AABn21pxdnIkUR-ExzHDtcHza/Toolbar-1.7.8.zip?dl=1",
     "license"        : "BSD-2-clause",
     "version"        : "1.7.8",
     "release_status" : "stable",
     "ksp_version_min"    : "0.90",
-	"ksp_version_max"	: "1.0.2",
+    "ksp_version_max"   : "1.0.2",
     "resources" : {
         "homepage"     : "http://forum.kerbalspaceprogram.com/threads/60863",
         "repository"   : "https://github.com/blizzy78/ksp_toolbar"

@@ -23,7 +23,12 @@
             "filter": ".DS_Store"
         }
     ],
-    "download": "http://ckan1.spacedock.info/storage/CliftonM_12500/Jebediah_Kerman_Fan_Klub/Jebediah_Kerman_Fan_Klub-1.0.zip",
+    "download": "https://archive.org/download/JebediahKermanFanKlub-1.0/345702E6-JebediahKermanFanKlub-1.0.zip",
     "download_size": 8585240,
+    "download_hash": {
+        "sha1": "345702E6A3690C46E67CAA99A9DD95AB4A4FCE42",
+        "sha256": "756D65C0454BAC64CD84138EDC2463B86D1339DB1A976C0C79287A06050AC900"
+    },
+    "download_content_type": "application/zip",
     "x_generated_by": "netkan"
 }

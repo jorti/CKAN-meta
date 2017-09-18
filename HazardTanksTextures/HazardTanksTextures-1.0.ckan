@@ -1,7 +1,7 @@
 {
     "spec_version": "v1.4",
     "identifier": "HazardTanksTextures",
-    "name": "Hazard Tanks Textures for Procedural Parts",
+    "name": "Procedural Parts - Hazard Tanks Textures",
     "abstract": "Procedural textures for tanks with hazards stripes. Give the badass look to your vessels!",
     "author": "Enceos",
     "license": "CC-BY-NC-4.0",
@@ -17,16 +17,27 @@
     ],
     "depends": [
         {
+            "name": "VensStylePPTextures"
+        }
+    ],
+    "suggests": [
+        {
             "name": "ProceduralParts"
         }
     ],
     "install": [
         {
-            "find": "KerbalHacks",
-            "install_to": "GameData"
+            "file": "GameData/KerbalHacks/PP_Textures",
+            "install_to": "GameData/KerbalHacks",
+            "filter": "PPVensTankEnds.dds"
         }
     ],
     "download": "https://spacedock.info/mod/467/Hazard%20Tanks%20Textures%20for%20Procedural%20Parts/download/1.0",
     "download_size": 1339655,
+    "download_hash": {
+        "sha1": "33FEBCAE304E9144D352A3B703A7C380DBA1B43B",
+        "sha256": "BADA6A2565A5589B4A46A51F65D85681E852CDD1372B7678D99DA9DBA8A775BB"
+    },
+    "download_content_type": "application/zip",
     "x_generated_by": "netkan"
 }
